@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindWork.Api", "MindWork.Api\MindWork.Api.csproj", "{7903989B-CFF7-C637-5EDC-08D931E66AAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7903989B-CFF7-C637-5EDC-08D931E66AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7903989B-CFF7-C637-5EDC-08D931E66AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7903989B-CFF7-C637-5EDC-08D931E66AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7903989B-CFF7-C637-5EDC-08D931E66AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {471B93E6-0DCC-40A3-9891-2768772B6B5C}
+	EndGlobalSection
+EndGlobal
