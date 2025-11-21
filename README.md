@@ -213,7 +213,7 @@ incluindo autenticação, versionamento, controllers e persistência com EF Core
 ---
 
 ## 🎥 Vídeo Demonstrativo
-📌 Link do vídeo: [![Assista no YouTube](https://img.shields.io/badge/YouTube-Assistir%20Vídeo-red?logo=youtube)](LINK)
+📌 Link do vídeo: [![Assista no YouTube](https://img.shields.io/badge/YouTube-Assistir%20Vídeo-red?logo=youtube)](https://www.youtube.com/watch?v=gXZfBDXjkTs)
 
 ---
 
