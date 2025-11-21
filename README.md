@@ -184,7 +184,7 @@ dotnet run --urls http://0.0.0.0:5000
 Acesse:
 
 ```
-http://localhost:5000/swagger
+http://localhost:5010/swagger
 ```
 
 ---
@@ -203,6 +203,15 @@ http://localhost:5000/swagger
 
 ---
 
+## 📊 Fluxo de Dados (Draw.io)
+
+Abaixo está o diagrama que representa o fluxo completo da MindWork .NET API,
+incluindo autenticação, versionamento, controllers e persistência com EF Core.
+
+![Fluxo de Dados](fluxo_de_dados_drawio.png)
+
+---
+
 ## 🎥 Vídeo Demonstrativo
 📌 Link do vídeo: [![Assista no YouTube](https://img.shields.io/badge/YouTube-Assistir%20Vídeo-red?logo=youtube)](LINK)
 
@@ -214,9 +223,4 @@ http://localhost:5000/swagger
 - **Kayky Paschoal Ribeiro – RM99929**  
 - **Natan Eguchi dos Santos – RM98720**
 
----
-
-## ✔ Pronto para entrega 🎓
-Este README foi formatado seguindo as melhores práticas adotadas na FIAP para documentação de projetos de API.  
-A aplicação está completa, documentada e demonstrável via Swagger.
 
